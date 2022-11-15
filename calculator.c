@@ -89,7 +89,7 @@ int main()
             printf (" Square Root of %d numbers is: %.2f", n1, res);  
             break; // break the function  
               
-        case 7:  1
+        case 7:  
             printf(" You chose: Exit");  
             exit(0);   
             break; // break the function  
